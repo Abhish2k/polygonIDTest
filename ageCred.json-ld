@@ -14,11 +14,11 @@
           "type": "@type",
           "kyc-vocab": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/kyc.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "birthday": {
+          "age": {
             "@id": "kyc-vocab:birthday",
             "@type": "xsd:integer"
           },
-          "documentType": {
+          "salary": {
             "@id": "kyc-vocab:documentType",
             "@type": "xsd:integer"
           }
