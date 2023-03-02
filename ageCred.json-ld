@@ -18,9 +18,9 @@
             "@id": "kyc-vocab:birthday",
             "@type": "xsd:integer"
           },
-          "salary": {
+          "name": {
             "@id": "kyc-vocab:documentType",
-            "@type": "xsd:integer"
+            "@type": "xsd:string"
           }
         }
       },
