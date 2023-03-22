@@ -18,10 +18,6 @@
             "@id": "kyc-vocab:birthday",
             "@type": "xsd:integer"
           },
-          "name": {
-            "@id": "kyc-vocab:documentType",
-            "@type": "xsd:string"
-          },
           "salary": {
             "@id": "kyc-vocab:birthday",
             "@type": "xsd:integer"
