@@ -21,6 +21,10 @@
           "age": {
             "@id": "kyc-vocab:age",
             "@type": "xsd:integer"
+          },
+          "experience": {
+            "@id": "kyc-vocab:age",
+            "@type": "xsd:integer"
           }
         }
       },
